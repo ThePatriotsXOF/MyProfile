@@ -15,3 +15,5 @@ $\color{#FF4500}{\text{This is a test}}$
 - ❓ $\color{#8A2BE2}{\text{Ask me about: My favorite games}}$
 - ❤️ $\color{#FF00FF}{\text{I ❤️: Computers}}$
 - ⚡ $\color{#FF1493}{\text{Fun fact: This is an old mostly unused GitHub account}}$
+
+![system-shock-shodan](https://github.com/user-attachments/assets/81abeb62-25e9-4cb7-b91f-0d5d3335060f)
