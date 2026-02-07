@@ -1,17 +1,17 @@
-# MyProfile
+### Preview
 
-This is a test
+# $\color{#FF0000}{\text{MyProfile}}$
 
-#### Hi there 👋
+$\color{#FF4500}{\text{This is a test}}$
 
-- 👦 **My Name Is:** Micheal Goodwill
-- 🏳️ **Pronouns:** Apache Helicopter
-- 🛠️ **Currently:** Working on my Capstone Project
-- 📚 **Learning:** Arduino
-- 🤝 **Open to collaborate on:** Website projects
-- 🤖 **I need help with:** Building robots
-- ❓ **Ask me about:** My favorite games
-- ❤️ **I ❤️:** Computers
-- ⚡ **Fun fact:** This is an old mostly unused GitHub account
+#### $\color{#FF8C00}{\text{Hi there 👋}}$
 
-  ![system-shock-shodan](https://github.com/user-attachments/assets/94d49e39-8f65-469e-8588-fdb34eb05ffa)
+- 👦 $\color{#D4AF37}{\text{My Name Is: Micheal Goodwill}}$
+- 🏳️ $\color{#32CD32}{\text{Pronouns: Apache Helicopter}}$
+- 🛠️ $\color{#008000}{\text{Currently: Working on my Capstone Project}}$
+- 📚 $\color{#00FFFF}{\text{Learning: Arduino}}$
+- 🤝 $\color{#1E90FF}{\text{Open to collaborate on: Website projects}}$
+- 🤖 $\color{#0000FF}{\text{I need help with: Building robots}}$
+- ❓ $\color{#8A2BE2}{\text{Ask me about: My favorite games}}$
+- ❤️ $\color{#FF00FF}{\text{I ❤️: Computers}}$
+- ⚡ $\color{#FF1493}{\text{Fun fact: This is an old mostly unused GitHub account}}$
