@@ -1,14 +1,17 @@
 # MyProfile
+
 This is a test
 
-#### <span style="color:#ff0000">H</span><span style="color:#ff7f00">i</span><span style="color:#ffff00"> </span><span style="color:#00ff00">t</span><span style="color:#0000ff">h</span><span style="color:#4b0082">e</span><span style="color:#8b00ff">r</span><span style="color:#ff0000">e</span> 👋
+#### Hi there 👋
 
-- <span style="color:#ff0000">👦</span> **<span style="color:#ff0000">M</span><span style="color:#ff7f00">y</span> <span style="color:#ffff00">N</span><span style="color:#00ff00">a</span><span style="color:#0000ff">m</span><span style="color:#4b0082">e</span> <span style="color:#8b00ff">I</span><span style="color:#ff0000">s</span><span style="color:#ff7f00">:</span>** Micheal Goodwill
-- <span style="color:#ff7f00">🏳️</span> **<span style="color:#ff7f00">M</span><span style="color:#ffff00">y</span> <span style="color:#00ff00">P</span><span style="color:#0000ff">r</span><span style="color:#4b0082">o</span><span style="color:#8b00ff">n</span><span style="color:#ff0000">o</span><span style="color:#ff7f00">u</span><span style="color:#ffff00">n</span><span style="color:#00ff00">s</span><span style="color:#0000ff">:</span>** Apache Helicopter
-- <span style="color:#ffff00">🛠️</span> **<span style="color:#ffff00">C</span><span style="color:#00ff00">u</span><span style="color:#0000ff">r</span><span style="color:#4b0082">r</span><span style="color:#8b00ff">e</span><span style="color:#ff0000">n</span><span style="color:#ff7f00">t</span><span style="color:#ffff00">l</span><span style="color:#00ff00">y</span><span style="color:#0000ff">:</span>** Working on my Capstone Project
-- <span style="color:#00ff00">📚</span> **<span style="color:#00ff00">L</span><span style="color:#0000ff">e</span><span style="color:#4b0082">a</span><span style="color:#8b00ff">r</span><span style="color:#ff0000">n</span><span style="color:#ff7f00">i</span><span style="color:#ffff00">n</span><span style="color:#00ff00">g</span> <span style="color:#0000ff">I</span><span style="color:#4b0082">n</span><span style="color:#8b00ff">:</span>** Arduino
-- <span style="color:#0000ff">🤝</span> **<span style="color:#0000ff">O</span><span style="color:#4b0082">p</span><span style="color:#8b00ff">e</span><span style="color:#ff0000">n</span> <span style="color:#ff7f00">t</span><span style="color:#ffff00">o</span> <span style="color:#00ff00">c</span><span style="color:#0000ff">o</span><span style="color:#4b0082">l</span><span style="color:#8b00ff">l</span><span style="color:#ff0000">a</span><span style="color:#ff7f00">b</span><span style="color:#ffff00">o</span><span style="color:#00ff00">r</span><span style="color:#0000ff">a</span><span style="color:#4b0082">t</span><span style="color:#8b00ff">e</span> <span style="color:#ff0000">o</span><span style="color:#ff7f00">n</span><span style="color:#ffff00">:</span>** Website projects
-- <span style="color:#4b0082">🤖</span> **<span style="color:#4b0082">I</span> <span style="color:#8b00ff">n</span><span style="color:#ff0000">e</span><span style="color:#ff7f00">e</span><span style="color:#ffff00">d</span> <span style="color:#00ff00">h</span><span style="color:#0000ff">e</span><span style="color:#4b0082">l</span><span style="color:#8b00ff">p</span> <span style="color:#ff0000">w</span><span style="color:#ff7f00">i</span><span style="color:#ffff00">t</span><span style="color:#00ff00">h</span><span style="color:#0000ff">:</span>** Building robots
-- <span style="color:#8b00ff">❓</span> **<span style="color:#8b00ff">A</span><span style="color:#ff0000">s</span><span style="color:#ff7f00">k</span> <span style="color:#ffff00">m</span><span style="color:#00ff00">e</span> <span style="color:#0000ff">a</span><span style="color:#4b0082">b</span><span style="color:#8b00ff">o</span><span style="color:#ff0000">u</span><span style="color:#ff7f00">t</span><span style="color:#ffff00">:</span>** My favorite games
-- <span style="color:#ff0000">❤️</span> **<span style="color:#ff0000">I</span> <span style="color:#ff7f00">❤️</span><span style="color:#ffff00">:</span>** Computers
-- <span style="color:#ff7f00">⚡</span> **<span style="color:#ff7f00">F</span><span style="color:#ffff00">u</span><span style="color:#00ff00">n</span> <span style="color:#0000ff">f</span><span style="color:#4b0082">a</span><span style="color:#8b00ff">c</span><span style="color:#ff0000">t</span><span style="color:#ff7f00">:</span>** This is an old mostly unused GitHub account
+- 👦 **My Name Is:** Micheal Goodwill
+- 🏳️ **Pronouns:** Apache Helicopter
+- 🛠️ **Currently:** Working on my Capstone Project
+- 📚 **Learning:** Arduino
+- 🤝 **Open to collaborate on:** Website projects
+- 🤖 **I need help with:** Building robots
+- ❓ **Ask me about:** My favorite games
+- ❤️ **I ❤️:** Computers
+- ⚡ **Fun fact:** This is an old mostly unused GitHub account
+
+  ![system-shock-shodan](https://github.com/user-attachments/assets/94d49e39-8f65-469e-8588-fdb34eb05ffa)
